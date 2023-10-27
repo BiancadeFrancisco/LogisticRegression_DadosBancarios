@@ -1,4 +1,4 @@
-# LogisticRegression_EmprestimoPessoal
+# LogisticRegression_Metricas.EmprestimoPessoal
 
 ## Descrição Projeto
 
