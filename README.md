@@ -1,4 +1,4 @@
-# LogisticRegression_DadosBancarios
+# LogisticRegression_EmprestimoPessoal
 
 ## Descrição Projeto
 
