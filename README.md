@@ -1,6 +1,6 @@
 # LogisticRegression_DadosBancarios
 
-##Descrição Projeto
+## Descrição Projeto
 
 
 **Conjunto de dados:** Base de dados bancários referente a empréstimos pessoais.
